@@ -1,0 +1,13 @@
+[package]
+name = "rust-markdown-server"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A high-performance, multi-threaded web server that converts Markdown files to HTML in real-time"
+repository = "https://github.com/yourusername/rust-markdown-server"
+license = "MIT"
+keywords = ["web-server", "markdown", "html", "rust", "multi-threaded"]
+categories = ["web-programming::http-server", "text-processing"]
+readme = "README.md"
+
+[dependencies]
