@@ -232,22 +232,4 @@ pkill -f webserver
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- **Rust Community** for excellent documentation and crates
-- **Markdown Specification** for standardized formatting
-- **HTTP/1.1 RFC** for protocol implementation guidance
-- **Thread Pool Pattern** from "The Rust Programming Language" book
-
-## 📞 Contact
-
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Project Link**: [https://github.com/yourusername/rust-markdown-server](https://github.com/yourusername/rust-markdown-server)
-
----
-
-⭐ **Star this project** if you find it useful!
-
-Built with ❤️ and 🦀 Rust
